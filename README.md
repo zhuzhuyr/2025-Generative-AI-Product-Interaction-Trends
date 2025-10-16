@@ -1,0 +1,1 @@
+# 2025-Generative-AI-Product-Interaction-Trends
