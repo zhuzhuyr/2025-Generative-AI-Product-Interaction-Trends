@@ -66,7 +66,7 @@ Gap：缺少出发地、确切日期、驾驶时长偏好、预算、游玩偏�
 
 **行业趋势1：对prompt进行优化**
 
-<div align=center><img src="https://github.com/zhuzhuyr/2025-Generative-AI-Product-Interaction-Trends/blob/main/pics/6.png" height="350"></div>
+<div align=center><img src="https://github.com/zhuzhuyr/2025-Generative-AI-Product-Interaction-Trends/blob/main/pics/6.png" height="250"></div>
 
 Anthropic 在 Claude 开发者控制台里提供一键“润色提示词”功能：用户把现有的提示词丢进去，它会自动分析并生成更稳健的模板。适合用于复杂、高准确度任务。该模块输出的结果是可直接调用的结构化提示模板。
 
@@ -80,7 +80,7 @@ Flowith 的提示词生成模块是在把想法变成可用 Prompt的一键工�
 
 Microsoft Copilot Prompt Gallery提供边看边用的“场景化范例库”。在 Copilot Chat 内可以直接打开 Gallery。按照不同任务场景，用户可以复制/改写提示词库中的案例，应用于自身的场景需求中。
  
-<div align=center><img src="https://github.com/zhuzhuyr/2025-Generative-AI-Product-Interaction-Trends/blob/main/pics/14.png" height="350"></div>
+<div align=center><img src="https://github.com/zhuzhuyr/2025-Generative-AI-Product-Interaction-Trends/blob/main/pics/14.png" height="250"></div>
 
 Google Prompting guide 101：提供给用户规则化、可迁移的“写作手册”。将一个任务从“模糊需求”演进到“结构化指令”的方式演示给用户，并给出不同角色/场景的示例。
 
@@ -210,9 +210,9 @@ Flowith采用非线性导航系统，以思维导图/大纲视图/时间轴图�
 
 grok 历史版本查看
 
-<div align=center><img src="https://github.com/zhuzhuyr/2025-Generative-AI-Product-Interaction-Trends/blob/main/pics/IMG_8229.jpg" height="350"></div>
+<div align=center><img src="https://github.com/zhuzhuyr/2025-Generative-AI-Product-Interaction-Trends/blob/main/pics/IMG_8229.jpg" height="250"></div>
 
 Flowith版本沙盒，历史版本以平行时间线呈现。支持节点不同语言模型版本对比与合并。
 
-<div align=center><img src="https://github.com/zhuzhuyr/2025-Generative-AI-Product-Interaction-Trends/blob/main/pics/curser.png" height="350"></div>
+<div align=center><img src="https://github.com/zhuzhuyr/2025-Generative-AI-Product-Interaction-Trends/blob/main/pics/curser.png" height="250"></div>
 Cursor 采用高亮的形式，将对话记录中的分解步骤与具体代码对应上，绿色代表新加或延用，红色代表删除的代码。便于用户区别新旧代码
